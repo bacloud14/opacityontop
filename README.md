@@ -12,6 +12,12 @@ It can be useful for example to verify
 
 - and even choose the right color combinations for other Android visuals like notifications...
 
+UI:
+
+![OpacityOnTop](Screen_Capture_Img_472.png)
+![OpacityOnTop](Screen_Capture_Img_5285.png)
+![OpacityOnTop](Screenshot.jpg)
+
 
 # Contribution
 
