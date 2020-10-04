@@ -14,8 +14,8 @@ It can be useful for example to verify
 
 UI:
 
-![OpacityOnTop](Screen_Capture_Img_472.png)
-![OpacityOnTop](Screen_Capture_Img_5285.png)
+![OpacityOnTop](Screenshot2.jpg)
+![OpacityOnTop](Screenshot3.jpg)
 ![OpacityOnTop](Screenshot.jpg)
 
 
